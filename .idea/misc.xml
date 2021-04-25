@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/compose-model-1618509723722.xml" value="0.33" />
+        <entry key="../../../../../layout/compose-model-1618514031422.xml" value="0.25" />
+        <entry key="../../../../../layout/compose-model-1618514031436.xml" value="0.5" />
+        <entry key="../../../../../layout/compose-model-1618604498558.xml" value="0.2809856564913571" />
+        <entry key="../../../../../layout/compose-model-1618606663365.xml" value="0.2802500919455682" />
+        <entry key="../../../../../layout/compose-model-1618608031929.xml" value="0.1" />
+        <entry key="../../../../../layout/compose-model-1618630229938.xml" value="0.2777777777777778" />
+        <entry key="../../../../../layout/compose-model-1618636561557.xml" value="0.1" />
+        <entry key="../../../../../layout/compose-model-1618639543734.xml" value="0.5" />
+        <entry key="../../../../../layout/compose-model-1618685301439.xml" value="0.30996621621621623" />
+        <entry key="../../../../../layout/compose-model-1618686905981.xml" value="0.32263513513513514" />
+        <entry key="../../../../../layout/compose-model-1618690480370.xml" value="0.32263513513513514" />
+        <entry key="../../../../../layout/compose-model-1619207551534.xml" value="0.8872549019607843" />
+        <entry key="../../../../../layout/compose-model-1619353943524.xml" value="0.1" />
+        <entry key="../../../../../layout/compose-model-1619354826795.xml" value="1.0" />
+        <entry key="app/src/main/res/drawable/edit_24.xml" value="0.11510416666666666" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3859375" />
+        <entry key="app/src/main/res/drawable/ic_note.xml" value="0.3859375" />
+        <entry key="app/src/main/res/drawable/money_24.xml" value="0.3859375" />
+      </map>
+    </option>
+  </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />

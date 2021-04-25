@@ -2,10 +2,10 @@ dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
         google()
+        jcenter()
         mavenCentral()
-        jcenter() // Warning: this repository is going to shut down soon
+        maven(url = "https://dl.bintray.com/ekito/koin")
     }
 }
 rootProject.name = "Saver"
 include(":app")
- 
